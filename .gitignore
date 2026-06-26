@@ -1,0 +1,6 @@
+﻿.env
+.idea/
+*/target/
+fitness-app-frontend/node_modules/
+*.class
+*.jar
