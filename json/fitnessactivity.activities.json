@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "68a046ca2b9722c301f82608"
+  },
+  "userId": "1",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68a0496da3b247d8e80c9c38"
+  },
+  "userId": "1",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-08-16T09:03:41.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T09:03:41.548Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68a1c17088ce92407c81a247"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-08-17T11:48:00.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-17T11:48:00.022Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d0e4306c2f23ae5648ffbf"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T05:52:48.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T05:52:48.234Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d0e5b69d9f4c9db5111bbb"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T05:59:18.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T05:59:18.241Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d0e908ab4c2029d3b415c5"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T06:13:28.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T06:13:28.622Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d0fb03ab4c2029d3b415c6"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T07:30:11.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T07:30:11.315Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d1104475444aa3de14ceab"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T09:00:52.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T09:00:52.076Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "68d11ab775444aa3de14ceac"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2025-09-22T09:45:27.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T09:45:27.032Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69665ad140a151414db5ab13"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-13T14:46:41.423Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-13T14:46:41.423Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "696787400ba5aa3d2d332d8e"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T12:08:32.653Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T12:08:32.653Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "696787ec0ba5aa3d2d332d8f"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T12:11:24.124Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T12:11:24.124Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "696790230ba5aa3d2d332d90"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T12:46:27.726Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T12:46:27.726Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "696797f30ba5aa3d2d332d91"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:19:47.425Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:19:47.425Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "696798ec54b2d523af6bf56d"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:23:56.799Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:23:56.799Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679ad31b1be03497282c79"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:32:03.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:32:03.067Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679b181b1be03497282c7a"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:33:12.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:33:12.882Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679d22b16ee69730c391ed"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:41:54.329Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:41:54.329Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679d63b16ee69730c391ee"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:42:59.561Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:42:59.561Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679d86b16ee69730c391ef"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:43:34.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:43:34.677Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679db1b16ee69730c391f0"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:44:17.208Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:44:17.208Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679e78751d5b530f59e4e8"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:47:36.032Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:47:36.032Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69679fb0751d5b530f59e4e9"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-01-14T13:52:48.827Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T13:52:48.827Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ae61a104b720d02bac2900"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-09T05:58:57.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T05:58:57.901Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ae61a404b720d02bac2901"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-09T05:59:00.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T05:59:00.019Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ae6e7f04b720d02bac2902"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-09T06:53:50.895Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T06:53:50.895Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c01e39f432a829ab9f98ee"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T16:52:08.861Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T16:52:08.861Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c02624f432a829ab9f98ef"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T17:25:56.205Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T17:25:56.205Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c02a0df432a829ab9f98f0"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T17:42:37.403Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T17:42:37.403Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c02decf432a829ab9f98f1"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T17:59:08.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T17:59:08.035Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c03123f432a829ab9f98f2"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T18:12:51.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T18:12:51.915Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c033abf432a829ab9f98f3"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-22T18:23:39.437Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-22T18:23:39.437Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c16d22b92b283d6d151a1a"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-23T16:41:06.205Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T16:41:06.205Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c16e06b92b283d6d151a1b"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-23T16:44:54.781Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T16:44:54.781Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c16e96b92b283d6d151a1c"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-23T16:47:17.826Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T16:47:17.826Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c16eadb92b283d6d151a1d"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-23T16:47:41.268Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T16:47:41.268Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69c16f41b92b283d6d151a1e"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-03-23T16:50:09.892Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T16:50:09.892Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ce8e8559189fb2b2afdf94"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-02T15:43:00.166Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T15:43:00.166Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ce90ef59189fb2b2afdf95"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-02T15:53:19.393Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T15:53:19.393Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69ce98f159189fb2b2afdf96"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-02T16:27:29.708Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T16:27:29.708Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69cea4af59189fb2b2afdf97"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-02T17:17:35.300Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T17:17:35.300Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69cea96c59189fb2b2afdf98"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-02T17:37:48.429Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-02T17:37:48.429Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "69d7cca229cff64503bd9aa5"
+  },
+  "userId": "3713af9c-5157-495d-9b05-0d73b26e9195",
+  "type": "RUNNING",
+  "duration": 30,
+  "caloriesBurned": 300,
+  "startTime": {
+    "$date": "2025-01-12T04:30:00.000Z"
+  },
+  "metrics": {
+    "distance": 5.2,
+    "averageSpeed": 10.4,
+    "maxHeartRate": 165
+  },
+  "createdAt": {
+    "$date": "2026-04-09T15:58:25.671Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-09T15:58:25.671Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a31891424c6f8962c86cc98"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 300,
+  "caloriesBurned": 3666,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-16T17:34:12.333Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-16T17:34:12.333Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a31893724c6f8962c86cc99"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 455,
+  "caloriesBurned": 355,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-16T17:34:47.199Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-16T17:34:47.199Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a3189a124c6f8962c86cc9a"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "CYCLING",
+  "duration": 344,
+  "caloriesBurned": 233,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-16T17:36:33.867Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-16T17:36:33.867Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a32ba23e5d824744530c9bc"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 355,
+  "caloriesBurned": 400,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-17T15:15:47.292Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T15:15:47.292Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36cca84a60cbb144517f32"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T17:23:52.595Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T17:23:52.595Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36d9464a60cbb144517f33"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T18:17:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T18:17:42.222Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36eed7728891803e7598ca"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "WALKING",
+  "duration": 23,
+  "caloriesBurned": 255,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T19:49:43.775Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T19:49:43.775Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36f11d728891803e7598cb"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "WALKING",
+  "duration": 2,
+  "caloriesBurned": 344,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T19:59:25.053Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T19:59:25.053Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36f1a0728891803e7598cc"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 4,
+  "caloriesBurned": 45,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T20:01:36.266Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T20:01:36.266Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a36fc01728891803e7598cd"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "CYCLING",
+  "duration": 23,
+  "caloriesBurned": 344,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T20:45:53.170Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T20:45:53.170Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a37061f728891803e7598ce"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 3,
+  "caloriesBurned": 444,
+  "metrics": {},
+  "createdAt": {
+    "$date": "2026-06-20T21:29:03.607Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-20T21:29:03.607Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a377dc34714ff305d5aeca2"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "duration": 2,
+  "caloriesBurned": 100,
+  "createdAt": {
+    "$date": "2026-06-21T05:59:31.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T05:59:31.852Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a377dc34714ff305d5aeca1"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "duration": 2,
+  "caloriesBurned": 100,
+  "createdAt": {
+    "$date": "2026-06-21T05:59:31.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T05:59:31.852Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a377dd14714ff305d5aeca3"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "duration": 2,
+  "caloriesBurned": 100,
+  "createdAt": {
+    "$date": "2026-06-21T05:59:45.090Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T05:59:45.090Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a3789dfbaf52bccbe8ab34f"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "duration": 3,
+  "caloriesBurned": 300,
+  "createdAt": {
+    "$date": "2026-06-21T06:51:11.704Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T06:51:11.704Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a378bc0baf52bccbe8ab350"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "duration": 1,
+  "caloriesBurned": 100,
+  "createdAt": {
+    "$date": "2026-06-21T06:59:12.339Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T06:59:12.339Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+},
+{
+  "_id": {
+    "$oid": "6a378d4dbaf52bccbe8ab351"
+  },
+  "userId": "93c0c1a5-8100-432c-989a-d796dfb270c8",
+  "type": "RUNNING",
+  "duration": 1,
+  "caloriesBurned": 100,
+  "createdAt": {
+    "$date": "2026-06-21T07:05:49.921Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-21T07:05:49.921Z"
+  },
+  "_class": "com.fitness.activityservice.model.Activity"
+}]
