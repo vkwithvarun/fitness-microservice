@@ -3,3 +3,6 @@
     name: user-service
   config:
     import: optional:configserver:${CONFIG_SERVER_URL:http://localhost:8888}
+
+server:
+  port: ${PORT:8081}
