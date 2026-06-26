@@ -1,25 +1,26 @@
+﻿server:
+  port: 8082
+
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/fitnessactivity
+      uri: ${SPRING_DATA_MONGODB_URI}
       database: fitnessactivity
   rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
+    host: ${RABBITMQ_HOST}
+    port: ${RABBITMQ_PORT}
+    username: ${RABBITMQ_USERNAME}
+    password: ${RABBITMQ_PASSWORD}
+    virtual-host: ${RABBITMQ_VHOST}
+    ssl:
+      enabled: true
 
-server:
-  port: 8082
-
-# EUREKA FIX - ADD THIS SECTION
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE}
   instance:
     prefer-ip-address: true
-    instance-id: ${spring.cloud.client.ip-address}:${server.port}
 
 rabbitmq:
   exchange:
@@ -28,6 +29,3 @@ rabbitmq:
     name: activity.queue
   routing:
     key: activity.tracking
-
-
-

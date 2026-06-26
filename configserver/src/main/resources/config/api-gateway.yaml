@@ -1,11 +1,11 @@
-spring:
+﻿spring:
   application:
     name: api-gateway
   security:
     oauth2:
       resourceserver:
         jwt:
-          jwk-set-uri: http://localhost:8181/realms/fitness-oauth2/protocol/openid-connect/certs
+          jwk-set-uri: ${KEYCLOAK_JWK_SET_URI}
   cloud:
     gateway:
       server:
@@ -32,10 +32,9 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+      defaultZone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE}
   instance:
     prefer-ip-address: true
-    instance-id: ${spring.cloud.client.ip-address}:${server.port}
 
 management:
   endpoints:
@@ -44,4 +43,4 @@ management:
         include: gateway,health,info
   endpoint:
     gateway:
-      access: unrestricted    # ← FIXED
+      access: unrestricted
