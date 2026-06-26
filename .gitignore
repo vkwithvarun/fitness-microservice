@@ -4,3 +4,4 @@
 fitness-app-frontend/node_modules/
 *.class
 *.jar
+fitness-app-frontend/.env
