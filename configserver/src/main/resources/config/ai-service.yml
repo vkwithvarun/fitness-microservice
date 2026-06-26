@@ -4,16 +4,14 @@
 spring:
   data:
     mongodb:
-      uri: ${SPRING_DATA_MONGODB_URI}
+      uri: ${SPRING_DATA_MONGODB_URI_AI}
       database: fitnessrecommendation
   rabbitmq:
     host: ${RABBITMQ_HOST}
     port: ${RABBITMQ_PORT:5672}
     username: ${RABBITMQ_USERNAME}
     password: ${RABBITMQ_PASSWORD}
-    virtual-host: ${RABBITMQ_VHOST}
-    ssl:
-      enabled: true
+    virtual-host: ${RABBITMQ_VHOST:/}
 
 eureka:
   client:
