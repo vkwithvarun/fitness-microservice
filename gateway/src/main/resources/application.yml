@@ -10,3 +10,8 @@
         initial-interval: 3000
         max-attempts: 5
         max-interval: 10000
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: ${KEYCLOAK_JWK_SET_URI}
