@@ -39,7 +39,7 @@ function App() {
         <Button
           variant="contained"
           sx={{ bgcolor: '#dc004e' }}
-          onClick={logIn}
+          onClick={() => logIn()}
         >
           LOGIN
         </Button>
